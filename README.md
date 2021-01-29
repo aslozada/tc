@@ -1,7 +1,7 @@
 # tc
 
 
-![alt text](https://github.com/aslozada/tc/blob/master/lqt.png {width=40px height=400px})
+![image](https://github.com/aslozada/tc/blob/master/lqt.png {width=40px height=400px})
 
 
 
