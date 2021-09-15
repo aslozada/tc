@@ -18,7 +18,7 @@ proc display_usage {name argc} {
      if { $argc < 0 } {
         puts ""
         puts "Not enough arguments in command line."
-        puts "Usage: vmd -xyz <file.xyz> -e $name -args -f <field-file> "
+        puts "Usage: vmd -(xyz|gro) <file>.(xyz|gro) -e $name -args -f <field-file> "
         puts ""
         puts "Options:"
         puts "-h         Display this help."
