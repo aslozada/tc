@@ -77,9 +77,6 @@ proc draw_field {data} {
          }
      }
 
-     set min -1.0
-     set max  1.0
-
      seek $data_name 0
 
      axes location LowerLeft
